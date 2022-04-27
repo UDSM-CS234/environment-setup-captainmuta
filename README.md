@@ -1,5 +1,5 @@
 Mutalemwa, Derick D.
-2020-4-08509
+2020-04-08509
 BSc. In Computer Science
 
 # CS 234 Lab 1: Hello World"
